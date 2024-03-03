@@ -25,13 +25,13 @@ const ACTIONS: Array<NavigationItem> = [
 	{
 		type: NavigationItemType.LINK,
 		external: true,
-		href: 'https://github.com/gabriel-dantas98',
+		href: 'https://github.com/dorkamotorka',
 		icon: <Icon className="mr-3" icon="feather:github" />,
 		text: 'GitHub',
 	},
 	{
 		type: NavigationItemType.LINK,
-		href: 'https://medium.com/@_gdantas',
+		href: 'https://medium.com/@cloudchirp',
 		icon: <Icon className="mr-3" icon="akar-icons:medium-fill" />,
 		text: 'Medium',
 	},
@@ -44,7 +44,7 @@ const ACTIONS: Array<NavigationItem> = [
 ];
 
 export default function HomePage() {
-	const description = 'Um desenvolvedor que prefere as emoções de infraestrutura';
+	const description = 'A developer who prefers the thrills of infrastructure.';
 	const age = (new Date().getFullYear() - 1998).toString();
 
 	return (
@@ -59,7 +59,7 @@ export default function HomePage() {
 								scale: [0.75, 1],
 							}}
 							className="text-4xl font-extrabold tracking-tight text-gray-500 dark:text-white sm:text-6xl md:text-6xl lg:text-7xl">
-							Eae! Sou Gabriel Dantas 🚀 <br className="hidden sm:block" />{' '}
+								Hey! I am Teodor (Janez) Podobnik 🚀 <br className="hidden sm:block" />{' '}
 							<Pill.Standard className="mt-4 text-2xl font-semibold sm:text-4xl">
 								Site Reliability Engineer
 							</Pill.Standard>
@@ -115,22 +115,17 @@ export default function HomePage() {
 							transition={{
 								delay: 0.5,
 							}}>
-							Sou de Jandira - São Paulo, comecei no mundo da tecnologia estudando
-							redes de computadores ainda no ensino médio. <br />
-							Me formei em Engenharia da Computação na FIAP, onde tive a oportunidade
-							de participar de diversos projetos desde a criação de robôs, aplicativos
-							e ideias de startups.
+								I am from Ljubljana - Slovenia, and I started in the world of technology by studying computer networks back in high school. <br />
+								I graduated in Computer Science at University of Ljubljana, where I had the opportunity to participate in various projects 
+								ranging from creating robots, applications, and startup ideas.
 							<br />
 							<br />
-							Desde então sempre tento estar atualizado tanto área Dev quanto Ops,
-							adoro desenvolver, mas também gosto da complexidade que a infraestrutura
-							traz. Atualmente sou SRE e ajudo times de desenvolvimento a criar
-							serviços escaláveis, observáveis e resilientes com as ferramentas certas
-							:)
+								Since then, I have always tried to stay updated in both the Dev and Ops areas. 
+								I love development, but I also enjoy the complexity that infrastructure brings. 
+								Currently, I am an SRE (Site Reliability Engineer), and I help development teams create scalable, observable, and resilient services with the right tools. :)
 							<br />
 							<br />
-							Adoro ficar favoritando repositórios no Github em busca de novos
-							projetos e ideias!
+								I love favoriting repositories on GitHub in search of new projects and ideas!
 						</Animate>
 					</div>
 					<div className="flex items-center justify-center w-full max-w-lg space-y-8 text-center sm:max-w-2xl md:sm:max-w-2xl lg:sm:max-w-7xl">

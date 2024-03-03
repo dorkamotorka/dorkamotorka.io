@@ -26,7 +26,7 @@ export default function ProjectsPage({ stringifiedProjects }: ProjectProps) {
 	const projects = JSON.parse(stringifiedProjects) as Array<Project>;
 
 	return (
-		<Layout.Default seo={{ title: 'gdantas ─ projects' }}>
+		<Layout.Default seo={{ title: 'dorkamotorka ─ projects' }}>
 			<div className="mx-2 my-24 sm:mx-6 lg:mb-28 lg:mx-8">
 				<div className="relative max-w-xl mx-auto">
 					<List.Container>

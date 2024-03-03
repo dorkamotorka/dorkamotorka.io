@@ -11,7 +11,7 @@ interface BlogLayoutProps {
 
 export function BlogLayout({ children, seo }: PropsWithChildren<BlogLayoutProps>) {
 	const seoProps = useSeoProps({
-		title: 'gdantas ─ who i am',
+		title: 'dorkamotorka ─ who i am',
 		...seo,
 	});
 

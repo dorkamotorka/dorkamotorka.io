@@ -1,30 +1,30 @@
 [
     {
-        "title": "Talks e Apresentações",
-        "icon": "feather:youtube",
-        "color": "#c4302b",
-        "description": "",
-        "url": "/talks"
-    },
-    {
-        "title": "Github",
+        "title": "GitHub",
         "icon": "feather:github",
         "color": "",
         "description": "",
-        "url": "https://github.com/gabriel-dantas98"
+        "url": "https://github.com/dorkamotorka"
     },
     {
         "title": "Medium Blog",
         "icon": "feather:book",
         "color": "",
         "description": "",
-        "url": "https://medium.com/@_gdantas"
+        "url": "https://medium.com/@cloudchirp"
+    },
+    {
+        "title": "Substack Newsletter",
+        "icon": "feather:book",
+        "color": "",
+        "description": "",
+        "url": "https://cloudchirp.substack.com"
     },
     {
         "title": "LinkedIn",
         "icon": "feather:linkedin",
         "color": "#286db9",
         "description": "",
-        "url": "https://www.linkedin.com/in/gabrieldantasg/"
+        "url": "https://www.linkedin.com/in/teodor-janez-podobnik/"
     }
 ]

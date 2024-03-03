@@ -1,79 +1,68 @@
 [
 	{
-		"date": "12-01-2020",
-		"title": "Site Reliability Engineer - QuintoAndar",
-		"description": "SRE focando em observabilidade (Grafana, Prometheus, ELK) e developer experience (Backstage.io)",
+		"date": "03-01-2019",
+		"title": "Student Intern - Laboratory for Automatic Control Systems",
+		"description": "Development of autonomous navigation for drones, platoon trucks and iRobot Roomba utilizing ROS, OpenCV and Raspberry Pi.",
 		"icon": "feather:briefcase",
 		"brandIcon": "https://play-lh.googleusercontent.com/4femv-L8CLg8ctK1p7v5fL0k3ld_nbPAjE9tSeTvr8FFVx5CGVmK5vs8svQuccSXs8k=w240-h480",
 		"link": {
-			"text": "QuintoAndar",
-			"url": "https://quintoandar.com.br/"
+			"text": "Laboratory for Automatic Control Systems",
+			"url": "http://msc.fe.uni-lj.si/Index.asp"
 		}
 	},
 	{
-		"date": "10-16-2019",
-		"title": "Estágio Software Engineer - QuintoAndar",
-		"description": "Estágio no time de SRE utilizando IaC, Kubernetes, AWS e Drone CI",
+		"date": "09-01-2020",
+		"title": "Software Engineer - TAFR Robotics",
+		"description": "Development for the autonomous navigation of the Tafr2.0 agriculture robot.",
 		"icon": "feather:briefcase",
 		"brandIcon": "https://play-lh.googleusercontent.com/4femv-L8CLg8ctK1p7v5fL0k3ld_nbPAjE9tSeTvr8FFVx5CGVmK5vs8svQuccSXs8k=w240-h480",
 		"link": {
-			"text": "QuintoAndar",
-			"url": "https://quintoandar.com.br/"
+			"text": "TAFR Robotics",
+			"url": "https://tafr.si"
 		}
 	},
 	{
-		"date": "09-01-2019",
-		"title": "Partner @ Helix IoT Platform",
-		"description": "Uma plataforma resiliente e orientada a microsserviços, com uma maneira intuitiva e fácil de implantar seus aplicativos de IoT.",
+		"date": "09-01-2021",
+		"title": "Cloud Engineer - MedTourEasy",
+		"description": "The project encompassed microservice architecture deployed on Kubernetes.",
 		"icon": "feather:briefcase",
 		"brandIcon": "https://play-lh.googleusercontent.com/4femv-L8CLg8ctK1p7v5fL0k3ld_nbPAjE9tSeTvr8FFVx5CGVmK5vs8svQuccSXs8k=w240-h480",
 		"link": {
-			"text": "Helix IoT Platform",
-			"url": "https://gethelix.org/"
+			"text": "MedTourEasy",
+			"url": "https://www.medtoureasy.com"
 		}
 	},
 	{
-		"date": "09-01-2018",
-		"title": "Estágio em DevOps - Mandic/Rivendel",
-		"description": "- Sustentação de múltiplos ambientes \n- Implementação de Pipelines de CI/CD \n- Melhoria continua de arquiteturas utilizando IaC",
+		"date": "07-01-2020",
+		"title": "Robotics Developer - Ubiquity Robotics",
+		"description": "Development for the autonomous navigation of the multipurpose robot base, presented at CES 2023 in Las Vegas.",
 		"icon": "feather:briefcase",
 		"brandIcon": "https://play-lh.googleusercontent.com/4femv-L8CLg8ctK1p7v5fL0k3ld_nbPAjE9tSeTvr8FFVx5CGVmK5vs8svQuccSXs8k=w240-h480",
 		"link": {
-			"text": "Mandic/Rivendel",
-			"url": "https://www.mandic.com.br/empresa/"
+			"text": "Ubiquity Robotics",
+			"url": "https://www.ubiquityrobotics.com/"
 		}
 	},
 	{
-		"date": "09-01-2017",
-		"title": "Estágio de TI - B4A",
-		"description": "- Acompanhamento e gerenciamento de duas infraestruturas AWS distintas. \n- Configuração de jobs do Jenkins para deploy na AWS. \n- Desenvolvimento de tasks para diferentes plataformas da empresa. \n- Uso de Docker para Conteinerização de ambientes de DEV/PROD.",
+		"date": "05-01-2022",
+		"title": "Research Assistant - University of Ljubljana",
+		"description": "Research related to eBPF, Kubernetes, Obserability Systems and other Cloud-related topics.",
 		"icon": "feather:briefcase",
 		"brandIcon": "https://play-lh.googleusercontent.com/4femv-L8CLg8ctK1p7v5fL0k3ld_nbPAjE9tSeTvr8FFVx5CGVmK5vs8svQuccSXs8k=w240-h480",
 		"link": {
-			"text": "Beauty for All",
-			"url": "https://b4a.com.br/"
+			"text": "University of Ljubljana, Faculty of Computer and Information Science",
+			"url": "https://www.fri.uni-lj.si/sl"
 		}
 	},
 	{
-		"date": "08-01-2016",
-		"title": "Estágio de Infraestrutura - Glambox",
-		"description": "- Gerenciamento e manutenção da infraestrutura de rede. \n- Administração de contas emails, grupos e funcionalidades GSuite. \n- Suporte a colaboradores da empresa.",
-		"icon": "feather:briefcase",
-		"brandIcon": "https://play-lh.googleusercontent.com/4femv-L8CLg8ctK1p7v5fL0k3ld_nbPAjE9tSeTvr8FFVx5CGVmK5vs8svQuccSXs8k=w240-h480",
-		"link": {
-			"text": "Glambox",
-			"url": "https://glambox.com.br/"
-		}
-	},
-	{
-		"date": "07-01-2016",
-		"title": "Faculdade Engenharia da Computação - FIAP",
-		"description": "Comecei a estudar engenharia da Computação na FIAP participando de diversas atividades interdisciplinares",
+		"date": "02-01-2023",
+		"title": "Cloud Architect - Prewave",
+		"description": "Oversee cloud infrastructure, support SaaS enhancements, collaborate with Cloud Ops team.",
 		"icon": "feather:book",
 		"brandIcon": "https://play-lh.googleusercontent.com/4femv-L8CLg8ctK1p7v5fL0k3ld_nbPAjE9tSeTvr8FFVx5CGVmK5vs8svQuccSXs8k=w240-h480",
 		"link": {
-			"text": "Faculdade de Informática e Administração Paulista",
-			"url": "https://fiap.com.br/"
+			"text": "Prewave",
+			"url": "https://www.prewave.com"
 		}
 	}
 ]

@@ -33,7 +33,7 @@ export const getStaticProps: GetStaticProps<TalksProps> = async () => {
 
 export default function TalksPage({ talks: talks }: TalksProps) {
 	return (
-		<Layout.Default seo={{ title: 'gdantas ─ talks' }}>
+		<Layout.Default seo={{ title: 'dorkamotorka ─ talks' }}>
 			<Toaster
 				toastOptions={{
 					position: 'bottom-right',

@@ -33,7 +33,7 @@ export default function TimelinePage({ timeline: rawTimeline }: TimelineProps) {
 	}));
 
 	return (
-		<Layout.Default seo={{ title: 'gdantas ─ timeline' }}>
+		<Layout.Default seo={{ title: 'dorkamotorka ─ timeline' }}>
 			<div className="flex flex-grow min-h-screen pt-16 pb-12">
 				<div className="flex flex-col justify-center flex-grow w-full max-w-sm px-0 mx-auto sm:max-w-3xl sm:px-16">
 					<ul className="-mb-8" role="list">

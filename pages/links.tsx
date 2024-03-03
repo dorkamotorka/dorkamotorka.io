@@ -33,7 +33,7 @@ export const getStaticProps: GetStaticProps<LinksProps> = async () => {
 
 export default function LinksPage({ links: links }: LinksProps) {
 	return (
-		<Layout.Default seo={{ title: 'gdantas ─ links' }}>
+		<Layout.Default seo={{ title: 'dorkamotorka ─ links' }}>
 			<Toaster
 				toastOptions={{
 					position: 'bottom-right',
